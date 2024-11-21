@@ -44,7 +44,10 @@ Este proyecto está distribuido bajo la licencia MIT.
 
 ## Autor
 Este proyecto fue desarrollado por Jairo Cárdenas.
+
 Para preguntas o sugerencias:
-•	Correo electrónico: jairo.cardenas.dev@gmail.com
-•	GitHub: @jairo51067
+
+•	Correo electrónico: jairo.cardenas.dev@gmail.com 
+
+•	GitHub: @jairo51067 
 
